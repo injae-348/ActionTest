@@ -1,7 +1,7 @@
 ---
 name: 기능구현
 about: 새로운 기능 이슈 등록
-title: '[FE] feat:'
+title: '[FE or BE] feat:'
 labels: 기능구현 ✅
 assignees: ''
 ---

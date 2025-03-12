@@ -1,7 +1,7 @@
 ---
 name: 버그리포트
 about: 버그 제보 및 리포트
-title: '[FE] bug:'
+title: '[FE or BE] bug:'
 labels: "버그발생 \U0001F6A8"
 assignees: ''
 ---
